@@ -5,3 +5,5 @@ It creates a generated.webm file from existing generated.png ang generated.ogg f
 Output set to 512x512 for video and 128kbps for audio track.
 
 ![](https://github.com/wryyyyyyyy/webmaker/blob/master/bloat.png)
+
+check the [releases](https://github.com/wryyyyyyyy/webmaker/releases) for binary
