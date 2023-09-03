@@ -6,4 +6,4 @@ Output set to 512x512 for video and 128kbps for audio track.
 
 ![](https://github.com/wryyyyyyyy/webmaker/blob/master/bloat.png)
 
-check the [releases](https://github.com/wryyyyyyyy/webmaker/releases) for binary
+check the [release](https://github.com/wryyyyyyyy/webmaker/releases) for binary assets
